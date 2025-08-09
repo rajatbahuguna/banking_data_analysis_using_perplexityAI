@@ -15,11 +15,16 @@ This repository showcases an end-to-end banking data analytics project that leve
 - DAX measures and visualization guides for Power BI.
 - Power BI report files ready for direct deployment.
 - Documentation guiding setup, execution, and customization of analytics workflows.
-  
+
 ## Technologies Used
 - **Perplexity AI:** For generating tailored SQL code.
 - **SQL Server:** For data storage, generation, and preprocessing.
 - **Power BI:** For interactive data visualization and reporting.
+
+## Future Enhancements
+- Enrich dataset with branch-level or geographic data.
+- Incorporate machine learning models within Power BI for predictive analytics.
+- Automate ETL processes and data refresh using orchestration platforms.
 
 
 
